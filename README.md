@@ -57,7 +57,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdEl-Rauof&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
