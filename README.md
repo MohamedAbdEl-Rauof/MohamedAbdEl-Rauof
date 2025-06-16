@@ -13,11 +13,12 @@
 
 ---
 
-- 🚀👨‍💻 Check my portfolio including all my work (solo): <a href="https://developer-moraouf.vercel.app/" target="_blank">Portfolio</a>
-- 🛍️ Best MERN Stack project I built (solo): <a href="https://e-commerce-platform-website.netlify.app/" target="_blank">E-commerce Project</a>
+- 🚀👨‍💻 Check my portfolio including all my work (solo): [Portfolio](https://developer-moraouf.vercel.app/)
+- 🛍️ Best MERN Stack project I built (solo): [E-commerce Project](https://e-commerce-platform-website.netlify.app/)
 - 📫 How to reach me: **mohamedabdelrauof112@gmail.com**
-- 📄 Know about my experience: <a href="https://drive.google.com/file/d/1x-Gx3i6oagPUc8gogJCBlIf9dM2MlSy7/view?usp=sharing" target="_blank">My CV</a>
+- 📄 Know about my experience: [My CV](https://drive.google.com/file/d/1x-Gx3i6oagPUc8gogJCBlIf9dM2MlSy7/view?usp=sharing)
 - ⚡ Fun fact: I'm a car enthusiast 🚗 and I love whales 🐋 in the sea 🌊
+
 
 ---
 
@@ -56,14 +57,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=MohamedAbdEl-Rauof&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAbdEl-Rauof" alt="GitHub Streak" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MohamedAbdEl-Rauof&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
