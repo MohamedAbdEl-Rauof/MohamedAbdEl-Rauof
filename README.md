@@ -13,11 +13,11 @@
 
 ---
 
-- 🚀👨‍💻 Check my portfolio including all my work (solo): [Portfolio](https://developer-moraouf.vercel.app/)
-- 🛍️ Best MERN Stack project I built (solo): [E-commerce Project](https://e-commerce-platform-website.netlify.app/)
+- 🚀👨‍💻 Check my portfolio including all my work (solo): <a href="https://developer-moraouf.vercel.app/" target="_blank">Portfolio</a>
+- 🛍️ Best MERN Stack project I built (solo): <a href="https://e-commerce-platform-website.netlify.app/" target="_blank">E-commerce Project</a>
 - 📫 How to reach me: **mohamedabdelrauof112@gmail.com**
-- 📄 Know about my experience: [My CV](https://drive.google.com/file/d/1nB6wYJc4G1EohVxaP6KOux3rIhit5ZFr/view)
-- ⚡ Fun fact: I'm a car enthusiast 🚗 and I love whales 🐋
+- 📄 Know about my experience: <a href="https://drive.google.com/file/d/1x-Gx3i6oagPUc8gogJCBlIf9dM2MlSy7/view?usp=sharing" target="_blank">My CV</a>
+- ⚡ Fun fact: I'm a car enthusiast 🚗 and I love whales 🐋 in the sea 🌊
 
 ---
 
