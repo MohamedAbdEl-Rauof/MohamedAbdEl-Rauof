@@ -14,7 +14,7 @@
 ---
 
 - 🚀👨‍💻 Check my portfolio including all my work (solo): [Portfolio](https://developer-moraouf.vercel.app/)
-- - 🧵 Cozy Loops Handmade E-commerce: [Cozy Loop Store](https://cozyloopstore.vercel.app/)  
+- 🧵 Cozy Loops Handmade E-commerce: [Cozy Loop Store](https://cozyloopstore.vercel.app/)  
 - 🛍️ Best MERN Stack project I built (solo): [E-commerce Project](https://e-commerce-platform-website.netlify.app/)  
 - 📫 How to reach me: **mohamedabdelrauof112@gmail.com**  
 - 📄 Know about my experience: [My CV](https://drive.google.com/file/d/1WXSDB22W5cC8e1AqzqveaywFMPhdWdWK/view?usp=drive_link)  
