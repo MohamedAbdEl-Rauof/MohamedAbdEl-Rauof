@@ -14,10 +14,11 @@
 ---
 
 - 🚀👨‍💻 Check my portfolio including all my work (solo): [Portfolio](https://developer-moraouf.vercel.app/)
-- 🛍️ Best MERN Stack project I built (solo): [E-commerce Project](https://e-commerce-platform-website.netlify.app/)
-- 📫 How to reach me: **mohamedabdelrauof112@gmail.com**
-- 📄 Know about my experience: [My CV](https://drive.google.com/file/d/1x-Gx3i6oagPUc8gogJCBlIf9dM2MlSy7/view?usp=sharing)
-- ⚡ Fun fact: I'm a car enthusiast 🚗 and I love whales 🐋 in the sea 🌊
+- - 🧵 Cozy Loops Handmade E-commerce: [Cozy Loop Store](https://cozyloopstore.vercel.app/)  
+- 🛍️ Best MERN Stack project I built (solo): [E-commerce Project](https://e-commerce-platform-website.netlify.app/)  
+- 📫 How to reach me: **mohamedabdelrauof112@gmail.com**  
+- 📄 Know about my experience: [My CV](https://drive.google.com/file/d/1WXSDB22W5cC8e1AqzqveaywFMPhdWdWK/view?usp=drive_link)  
+- ⚡ Fun fact: I'm a car enthusiast 🚗 and I love whales 🐋 in the sea 🌊  
 
 
 ---
