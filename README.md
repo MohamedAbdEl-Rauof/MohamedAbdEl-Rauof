@@ -1,6 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohamed%20Abd%20El-Rauof&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Automation%20%26%20AI&descAlignY=55&descSize=20" width="100%"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" width="100%">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="50%" style="stop-color:#302b63"/>
+      <stop offset="100%" style="stop-color:#24243e"/>
+    </linearGradient>
+    <path id="wave-top" d="M0,160 C150,100 350,200 500,140 C650,80 750,180 900,120 L900,0 L0,0 Z"/>
+    <path id="wave-bot" d="M0,140 C200,200 400,80 600,160 C750,220 850,120 900,150 L900,180 L0,180 Z"/>
+  </defs>
+  <rect width="900" height="180" fill="url(#grad)"/>
+  <use href="#wave-top" fill="rgba(255,255,255,0.04)"/>
+  <use href="#wave-bot" fill="rgba(255,255,255,0.04)"/>
+  <text x="450" y="90" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">Mohamed Abd El-Rauof</text>
+  <text x="450" y="135" font-family="Segoe UI, Arial, sans-serif" font-size="17" fill="#6AD3F7" text-anchor="middle" dominant-baseline="middle">Full-Stack Developer · Automation &amp; AI</text>
+</svg>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=React+%7C+Next.js+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;n8n+Automation+%7C+AI+Integrations+%7C+ZATCA+Compliance;Building+production-ready+apps+from+scratch+🚀)](https://git.io/typing-svg)
 
@@ -243,5 +258,14 @@ const mohamed = {
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 100" width="100%">
+    <defs>
+      <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#0f0c29"/>
+        <stop offset="50%" style="stop-color:#302b63"/>
+        <stop offset="100%" style="stop-color:#24243e"/>
+      </linearGradient>
+    </defs>
+    <path d="M0,0 C200,80 400,20 600,60 C750,90 850,30 900,50 L900,100 L0,100 Z" fill="url(#grad2)"/>
+  </svg>
 </div>
